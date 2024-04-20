@@ -1,4 +1,4 @@
-# Título del Proyecto ![Imagen de Portada](url_de_la_imagen)
+# Título del Proyecto ![Imagen de Portada](/GOKU.jpg)
 
 
 ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales. 
